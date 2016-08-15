@@ -1,0 +1,6 @@
+framework module Pods_Roots {
+  umbrella header "Pods-Roots-umbrella.h"
+
+  export *
+  module * { export * }
+}
